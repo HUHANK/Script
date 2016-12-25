@@ -1,25 +1,25 @@
 " --------------------------------------------
 " vim 环境设置
 " --------------------------------------------
-	set nu
-	set ai
-	set ts=4
+	set	nu
+	set	ai
+	set	ts=4
 	set	bg=dark
 
 " --------------------------------------------
 " ctags database path setting
 " --------------------------------------------
-	set tags=/Users/huyouliang/Documents/linux-2.6.39/tags
+	set	tags=/Users/huyouliang/Documents/linux-2.6.39/tags
 
 " --------------------------------------------
 " cscope database path setting
 " --------------------------------------------
-	set csprg=/usr/local/bin/cscope
-	set csto=0
+	set	csprg=/usr/local/bin/cscope
+	set	csto=0
 	set	cst
 	set	nocsverb
 	cs add /Users/huyouliang/Documents/linux-2.6.39/cscope.out	/Users/huyouliang/Documents/linux-2.6.39
-	set csverb
+	set	csverb
 
 " --------------------------------------------
 " Tap List setting
